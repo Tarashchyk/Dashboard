@@ -1,0 +1,37 @@
+{
+    "link": {
+        "url": "/unpaid_details",
+        "params": {
+            "id": "1"
+        },
+        "style": {
+            "fontSize": "12px",
+            "color": "#000000",
+            "backgroundColor": "#FFFFFF"
+        }
+    },
+    "data": [
+        {
+            "value": "0",
+            "tooltip": "0 Kč",
+            "name": "do 3 dnu",
+            "style": {
+                "backgroundColor": "#5cb85c"
+            }
+        },
+        {
+            "value": "4",
+            "tooltip": "72657 Kč",
+            "name": "4 a vice dnu",
+            "style": {
+                "backgroundColor": "#d9534e"
+            }
+        }
+    ],
+    "layout": {
+        "rowQty": "1",
+        "cellQty": "2"
+    },
+    "type": "tab",
+    "label": "Dopinit zadani"
+}

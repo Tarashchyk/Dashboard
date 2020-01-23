@@ -1,0 +1,53 @@
+{
+    "link": {
+        "url": "/unpaid_details",
+        "params": {
+            "id": "1"
+        },
+        "style": {
+            "fontSize": "12px",
+            "color": "#000000",
+            "backgroundColor": "#FFFFFF"
+        }
+    },
+    "data": [
+        {
+            "value": 35000,
+            "tooltip": "0 Kč",
+            "name": "Ceska republika",
+            "style": {
+                "backgroundColor": "#5cb85c"
+            }
+        },
+        {
+            "value": 20000,
+            "tooltip": "72657 Kč",
+            "name": "Rusko",
+            "style": {
+                "backgroundColor": "#808080"
+            }
+        },
+        {
+            "value": 8000,
+            "tooltip": "0 Kč",
+            "name": "Nemecko",
+            "style": {
+                "backgroundColor": "#d9534e"
+            }
+        },
+        {
+            "value": 13500,
+            "tooltip": "72657 Kč",
+            "name": "Ostatni trhy",
+            "style": {
+                "backgroundColor": "#FFBE33"
+            }
+        }
+    ],
+    "layout": {
+        "rowQty": "1",
+        "cellQty": "4"
+    },
+    "type": "PieChartActiveShape",
+    "label": "Prodej 10/2019"
+}

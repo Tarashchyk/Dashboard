@@ -1,0 +1,37 @@
+{
+    "link": {
+        "url": "/unpaid_details",
+        "params": {
+            "id": "1"
+        },
+        "style": {
+            "fontSize": "12px",
+            "color": "#000000",
+            "backgroundColor": "#FFFFFF"
+        }
+    },
+    "data": [
+        {
+            "value": "25",
+            "tooltip": "1836115.00",
+            "name": "Tyden do Terminu Dodani",
+            "style": {
+                "backgroundColor": "#d9534e"
+            }
+        },
+        {
+            "value": "30",
+            "tooltip": "1836115.00",
+            "name": "Pres Termin Dodani",
+            "style": {
+                "backgroundColor": "#d9534e"
+            }
+        }
+    ],
+    "layout": {
+        "rowQty": "1",
+        "cellQty": "2"
+    },
+    "type": "tab",
+    "label": "Expedováno čeká"
+}

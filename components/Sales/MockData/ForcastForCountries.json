@@ -1,0 +1,53 @@
+{
+    "link": {
+        "url": "/unpaid_details",
+        "params": {
+            "id": "1"
+        },
+        "style": {
+            "fontSize": "12px",
+            "color": "#000000",
+            "backgroundColor": "#FFFFFF"
+        }
+    },
+    "data": [
+        {
+            "value": 4498016,
+            "tooltip": "0 Kč",
+            "name": "Ceska republika",
+            "style": {
+                "backgroundColor": "#5cb85c"
+            }
+        },
+        {
+            "value": 1000000,
+            "tooltip": "72657 Kč",
+            "name": "Rusko",
+            "style": {
+                "backgroundColor": "#d9534e"
+            }
+        },
+        {
+            "value": 1370552,
+            "tooltip": "0 Kč",
+            "name": "Nemecko",
+            "style": {
+                "backgroundColor": "#FFBE33"
+            }
+        },
+        {
+            "value": 3010400,
+            "tooltip": "72657 Kč",
+            "name": "Ostatni trhy",
+            "style": {
+                "backgroundColor": "#5cb85c"
+            }
+        }
+    ],
+    "layout": {
+        "rowQty": "1",
+        "cellQty": "4"
+    },
+    "type": "BarChart",
+    "label": "Projekce 10/2019"
+}

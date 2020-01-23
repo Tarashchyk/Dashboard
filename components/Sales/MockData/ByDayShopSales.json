@@ -1,0 +1,175 @@
+{
+    "link": {
+        "url": "/unpaid_details",
+        "params": {
+            "id": "1"
+        },
+        "style": {
+            "fontSize": "12px",
+            "color": "#000000",
+            "backgroundColor": "#FFFFFF"
+        }
+    },
+    "lineColours": {
+        "Brasnarstvitlusty.cz": "#AC33FF",
+        "Tlustyco.com": "#09A56F"
+    },
+    "data": [
+        {
+            "Brasnarstvitlusty.cz": 4000,
+            "Tlustyco.com": 5000,
+            "name": "01.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 8000,
+            "Tlustyco.com": 2000,
+            "name": "02.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 3000,
+            "Tlustyco.com": 5000,
+            "name": "03.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 2000,
+            "Tlustyco.com": 7000,
+            "name": "04.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 5000,
+            "Tlustyco.com": 3500,
+            "name": "05.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 4500,
+            "Tlustyco.com": 4000,
+            "name": "06.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 3000,
+            "Tlustyco.com": 5500,
+            "name": "07.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 6000,
+            "Tlustyco.com": 6900,
+            "name": "08.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 4300,
+            "Tlustyco.com": 5200,
+            "name": "09.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 4000,
+            "Tlustyco.com": 3500,
+            "name": "10.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 4000,
+            "Tlustyco.com": 5000,
+            "name": "11.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 8000,
+            "Tlustyco.com": 2000,
+            "name": "12.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 3000,
+            "Tlustyco.com": 5000,
+            "name": "13.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 2000,
+            "Tlustyco.com": 7000,
+            "name": "14.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 5000,
+            "Tlustyco.com": 3500,
+            "name": "15.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 4500,
+            "Tlustyco.com": 4000,
+            "name": "16.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 3000,
+            "Tlustyco.com": 5500,
+            "name": "17.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 6000,
+            "Tlustyco.com": 6900,
+            "name": "18.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 4300,
+            "Tlustyco.com": 5200,
+            "name": "19.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 4000,
+            "Tlustyco.com": 3500,
+            "name": "20.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 4000,
+            "Tlustyco.com": 5000,
+            "name": "21.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 8000,
+            "Tlustyco.com": 2000,
+            "name": "22.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 3000,
+            "Tlustyco.com": 5000,
+            "name": "23.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 2000,
+            "Tlustyco.com": 7000,
+            "name": "24.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 5000,
+            "Tlustyco.com": 3500,
+            "name": "25.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 4500,
+            "Tlustyco.com": 4000,
+            "name": "26.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 3000,
+            "Tlustyco.com": 5500,
+            "name": "27.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 6000,
+            "Tlustyco.com": 6900,
+            "name": "28.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 4300,
+            "Tlustyco.com": 5200,
+            "name": "29.11"
+        },
+        {
+            "Brasnarstvitlusty.cz": 4000,
+            "Tlustyco.com": 3500,
+            "name": "30.11"
+        }
+    ],
+    "layout": {
+        "rowQty": "1",
+        "cellQty": "2"
+    },
+    "type": "SimpleLineChart",
+    "label": "Total sales by shop (Each day of a month)"
+}

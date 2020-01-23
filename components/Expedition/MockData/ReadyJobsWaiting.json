@@ -1,0 +1,53 @@
+{
+    "link": {
+        "url": "/unpaid_details",
+        "params": {
+            "id": "1"
+        },
+        "style": {
+            "fontSize": "12px",
+            "color": "#000000",
+            "backgroundColor": "#FFFFFF"
+        }
+    },
+    "data": [
+        {
+            "value": "0",
+            "tooltip": "6954415.60",
+            "name": "do 1 dne",
+            "style": {
+                "backgroundColor": "#5cb85c"
+            }
+        },
+        {
+            "value": "1",
+            "tooltip": "6954415.60",
+            "name": "2 a vice dnu",
+            "style": {
+                "backgroundColor": "#5cb85c"
+            }
+        },
+        {
+            "value": "0",
+            "tooltip": "6954415.60",
+            "name": "VIP",
+            "style": {
+                "backgroundColor": "#5cb85c"
+            }
+        },
+        {
+            "value": "0",
+            "tooltip": "6954415.60",
+            "name": "Narozeniny",
+            "style": {
+                "backgroundColor": "#5cb85c"
+            }
+        }
+    ],
+    "layout": {
+        "rowQty": "1",
+        "cellQty": "4"
+    },
+    "type": "tab",
+    "label": "Ceká (odeslání)"
+}

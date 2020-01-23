@@ -1,0 +1,85 @@
+{
+    "link": {
+        "url": "/unpaid_details",
+        "params": {
+            "id": "1"
+        },
+        "style": {
+            "fontSize": "12px",
+            "color": "#000000",
+            "backgroundColor": "#FFFFFF"
+        }
+    },
+    "lineColours": {
+        "Brasnarstvitlusty.cz": "#AC33FF",
+        "Tlustyco.com": "#09A56F"
+    },
+    "data": [
+        {
+            "Brasnarstvitlusty.cz": 150000,
+            "Tlustyco.com": 85000,
+            "name": "September"
+        },
+        {
+            "Brasnarstvitlusty.cz": 200000,
+            "Tlustyco.com": 75000,
+            "name": "October"
+        },
+        {
+            "Brasnarstvitlusty.cz": 180000,
+            "Tlustyco.com": 90000,
+            "name": "November"
+        },
+        {
+            "Brasnarstvitlusty.cz": 110000,
+            "Tlustyco.com": 78000,
+            "name": "December"
+        },
+        {
+            "Brasnarstvitlusty.cz": 100000,
+            "Tlustyco.com": 95000,
+            "name": "January"
+        },
+        {
+            "Brasnarstvitlusty.cz": 76500,
+            "Tlustyco.com": 76000,
+            "name": "Febrary"
+        },
+        {
+            "Brasnarstvitlusty.cz": 96500,
+            "Tlustyco.com": 80000,
+            "name": "March"
+        },
+        {
+            "Brasnarstvitlusty.cz": 80000,
+            "Tlustyco.com": 96500,
+            "name": "April"
+        },
+        {
+            "Brasnarstvitlusty.cz": 150000,
+            "Tlustyco.com": 250000,
+            "name": "May"
+        },
+        {
+            "Brasnarstvitlusty.cz": 163000,
+            "Tlustyco.com": 120000,
+            "name": "June"
+        },
+        {
+            "Brasnarstvitlusty.cz": 300000,
+            "Tlustyco.com": 167000,
+            "name": "July"
+        },
+        {
+            "Brasnarstvitlusty.cz": 120000,
+            "Tlustyco.com": 76000,
+            "name": "August"
+        }
+    ],
+    "layout": {
+        "rowQty": "1",
+        "cellQty": "2"
+    },
+    "type": "StackedBarChart",
+    "label": "Total sales by shop (Each Month)"
+}

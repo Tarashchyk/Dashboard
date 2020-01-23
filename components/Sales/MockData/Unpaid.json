@@ -1,0 +1,77 @@
+{
+    "label": "Nezaplacené",
+    "style": {
+        "fontSize": "14px",
+        "color": "#000000",
+        "backgroundColor": "#FFFFFF"
+    },
+    "description": "Lorem ipsum...",
+    "link": {
+        "url": "/unpaid_details",
+        "params": {
+            "id": "1"
+        },
+        "style": {
+            "fontSize": "12px",
+            "color": "#000000",
+            "backgroundColor": "#FFFFFF"
+        }
+    },
+    "data": [
+        {
+            "value": 126,
+            "tooltip": "0 Kč",
+            "name": "do 7 dnu",
+            "style": {
+                "backgroundColor": "#d9534e"
+            }
+        },
+        {
+            "value": 70,
+            "tooltip": "72657 Kč",
+            "name": "do 14 dnu",
+            "style": {
+                "backgroundColor": "#d9534e"
+            }
+        },
+        {
+            "value": 15,
+            "tooltip": "0 Kč",
+            "name": "do 21 dnu",
+            "style": {
+                "backgroundColor": "#5cb85c"
+            }
+        },
+        {
+            "value": 95,
+            "tooltip": "0 Kč",
+            "name": "22 a vice",
+            "style": {
+                "backgroundColor": "#d9534e"
+            }
+        }
+    ],
+    "layout": {
+        "rowQty": "1",
+        "cellQty": "4"
+    },
+    "type": "PieChart",
+    "series": [
+        {
+            "name": "2018",
+            "data": [
+                43934,
+                52503,
+                57177
+            ]
+        },
+        {
+            "name": "2019",
+            "data": [
+                24916,
+                24064,
+                29742
+            ]
+        }
+    ]
+}
